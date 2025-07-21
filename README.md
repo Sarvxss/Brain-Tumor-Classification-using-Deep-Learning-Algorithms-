@@ -82,7 +82,3 @@ jupyter notebook "Brain Tumor Classification Using Deep Learning Algorithms.ipyn
 - Experiment with transfer learning (e.g., ResNet, VGG)
 - Improve data augmentation strategies
 - Deploy the model via Flask or Streamlit
-
-## 📌 License
-
-This project is licensed under the MIT License.
